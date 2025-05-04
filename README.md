@@ -1,1 +1,0 @@
-# food_delivery_base_now
